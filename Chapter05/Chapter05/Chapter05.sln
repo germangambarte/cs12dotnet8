@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktLibraryNetStandard2", "PacktLibraryNetStandard2\PacktLibraryNetStandard2.csproj", "{95D6E98F-E49F-4542-8F2D-9DFE3D464BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleApp", "PeopleApp\PeopleApp.csproj", "{13F4B7F0-173B-4340-92F5-08ECA190FE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D6E98F-E49F-4542-8F2D-9DFE3D464BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D6E98F-E49F-4542-8F2D-9DFE3D464BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D6E98F-E49F-4542-8F2D-9DFE3D464BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D6E98F-E49F-4542-8F2D-9DFE3D464BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F4B7F0-173B-4340-92F5-08ECA190FE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F4B7F0-173B-4340-92F5-08ECA190FE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F4B7F0-173B-4340-92F5-08ECA190FE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F4B7F0-173B-4340-92F5-08ECA190FE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
